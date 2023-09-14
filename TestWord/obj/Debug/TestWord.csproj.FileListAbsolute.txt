@@ -1,0 +1,6 @@
+C:\Users\Gratix\source\repos\TestWord\TestWord\bin\Debug\TestWord.dll
+C:\Users\Gratix\source\repos\TestWord\TestWord\bin\Debug\TestWord.pdb
+C:\Users\Gratix\source\repos\TestWord\TestWord\obj\Debug\TestWord.csproj.AssemblyReference.cache
+C:\Users\Gratix\source\repos\TestWord\TestWord\obj\Debug\TestWord.csproj.CoreCompileInputs.cache
+C:\Users\Gratix\source\repos\TestWord\TestWord\obj\Debug\TestWord.dll
+C:\Users\Gratix\source\repos\TestWord\TestWord\obj\Debug\TestWord.pdb
